@@ -1,0 +1,1 @@
+Minimalizacja rozmiaru plików JS oraz liczby requestów
